@@ -1,0 +1,1 @@
+{"request_time":"2020-09-20T18:43:43+01:00","source":"Network Rail","acknowledgements":"Contains information of Network Rail Infrastructure Limited. License http://www.networkrail.co.uk/data-feeds/terms-and-conditions/","member":[{"type":"train_station","name":"Leeds","latitude":53.795625,"longitude":-1.548026,"accuracy":100,"station_code":"LDS","tiploc_code":"LEEDS"}]}
